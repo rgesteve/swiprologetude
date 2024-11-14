@@ -1,2 +1,3 @@
-# swiprologetude
-Refresher on swi-prolog/cliopatria
+# Getting re-acquainted with swi-prolog
+
+As an entry-point into neurosymbolic computing.
